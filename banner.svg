@@ -59,7 +59,7 @@
     </rect>
 
     <!-- Fade mask on grid edges -->
-    <rect width="900" height="320" fill="url(#orb1)" x="-60" y="-60" width="500" height="500">
+    <rect fill="url(#orb1)" x="-60" y="-60" width="500" height="500">
       <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="9s" repeatCount="indefinite"/>
     </rect>
