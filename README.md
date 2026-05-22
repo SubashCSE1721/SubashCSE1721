@@ -1,22 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0a1628,1e4fc4,0a1628&height=220&section=header&text=Subash%20M&fontSize=72&fontColor=f8faff&fontAlignY=45&desc=I%20build%20things%20that%20save%20hundreds%20of%20hours&descAlignY=67&descColor=4f9eff&animation=fadeIn" width="100%"/>
-
-<br/>
-
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  role        →  Senior .NET Developer                        ║
-║  domain      →  Healthcare IT Automation                     ║
-║  location    →  Chennai, Tamil Nadu  🇮🇳                     ║
-║  experience  →  ~5 years                                     ║
-║  status      →  🟢 Open to opportunities                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://raw.githubusercontent.com/SubashCSE1721/SubashCSE1721/main/banner.svg" width="100%" alt="Subash M — Senior .NET Developer"/>
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -36,19 +22,6 @@
 I'm a backend-focused .NET developer who's spent ~5 years inside **healthcare IT**, automating the kind of painful, repetitive processes that cost teams entire workdays. Every system I ship is measured by one thing — **real impact on real workflows**.
 
 I've built 12+ tools from scratch, owned full SDLCs, and kept regression defects at zero across quarterly releases. Now I'm looking to bring that same precision to a **product-based company** with a bigger scope.
-
-<br/>
-
-## &nbsp;`// numbers_that_matter`
-
-<div align="center">
-
-|  |  |  |  |
-|:---:|:---:|:---:|:---:|
-| **12+** | **~90%** | **~5 yrs** | **95%+** |
-| automation tools shipped | manual effort eliminated | in the industry | test coverage held |
-
-</div>
 
 <br/>
 
@@ -185,13 +158,19 @@ Selenium-driven outreach tool that handles bulk messaging workflows end-to-end. 
 ## &nbsp;`// github_activity`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SubashCSE1721&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4f9eff&icon_color=4f9eff" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=4F9EFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Building+automation+tools+that+save+hundreds+of+hours+%E2%9A%A1;Healthcare+IT+%C2%B7+ASP.NET+Core+%C2%B7+MySQL+%C2%B7+Azure+%C2%B7+CI%2FCD" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SubashCSE1721&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4f9eff&icon_color=4f9eff&bg_color=0a1628&text_color=8a9ab8" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashCSE1721&layout=compact&theme=tokyonight&hide_border=true&title_color=4f9eff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashCSE1721&layout=compact&theme=tokyonight&hide_border=true&title_color=4f9eff&bg_color=0a1628&text_color=8a9ab8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubashCSE1721&theme=tokyonight&hide_border=true&ring=4f9eff&fire=4f9eff&currStreakLabel=4f9eff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubashCSE1721&theme=tokyonight&hide_border=true&ring=4f9eff&fire=4f9eff&currStreakLabel=4f9eff&background=0a1628&sideLabels=8a9ab8&dates=8a9ab8" />
 </div>
 
 <br/>
@@ -224,4 +203,6 @@ certifications:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e4fc4,0a1628&height=100&section=footer&reversal=false" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=1E4FC4&center=true&vCenter=true&width=400&height=30&lines=Thanks+for+visiting+%F0%9F%91%8B;Let%27s+build+something+impactful" alt="Footer typing"/>
+</div>
